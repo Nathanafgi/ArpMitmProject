@@ -1,4 +1,4 @@
-# arp-mitm
+# ArpMitmProject
 created by Matan Nafgi
 
 `ArpMitmProject` is a Python library for performing ARP spoofing and man-in-the-middle (MITM) attacks.
