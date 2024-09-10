@@ -13,7 +13,7 @@ You can download ArpspoofMITM by cloning the Git Repo and simply installing its 
 ```
 ## bash
 ```
-~ ❯❯❯ pip install Arp-Mitm
+~ ❯❯❯ pip install ArpMitmProject
 ```
 
 ## Usage
