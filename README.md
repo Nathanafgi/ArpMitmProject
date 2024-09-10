@@ -21,7 +21,7 @@ You can download ArpspoofMITM by cloning the Git Repo and simply installing its 
 make sure that IP forwarding is enabled on your attacker machine so that packets from the victim can reach the intended destination (the target).
 
 
-sudo python3 arpmitm.py <victim_ip> <target_ip> <iface>
+sudo python3 ArpMitm.py <victim_ip> <target_ip> <iface>
 ```
 #default interface will be chosen if not specified
 
