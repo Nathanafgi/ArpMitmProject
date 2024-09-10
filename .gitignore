@@ -1,5 +1,12 @@
-# Ignore virtual environments and Python bytecode
+# Byte-compiled files
 __pycache__/
 *.pyc
 *.pyo
+
+# Distribution directories
+dist/
+build/
+*.egg-info/
+
+# Virtual environments (if using one)
 venv/
